@@ -1,0 +1,23 @@
+.pagi{
+    height: 60px;
+    border-top: 1px solid rgb(150, 150, 150);
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    display: flex;
+    background: white;
+    align-items: center;
+    justify-content: center;
+}
+.pagi-icons{
+    width: 33.33%;
+    height: 100%;
+    border-left: 1px solid rgb(200, 200, 200);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pagi-icon-img{
+    height: 35px;
+    aspect-ratio: 1;
+}

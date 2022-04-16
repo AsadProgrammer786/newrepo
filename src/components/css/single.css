@@ -1,0 +1,12 @@
+.message{
+    height: auto;
+    padding: 15px;
+    width: auto;
+    max-width:calc(100% - 50px);
+    margin-top:30px;
+    font-size: 18px;
+    margin-left: 20px;
+    border-radius: 10px;
+    background: white;
+    border: 2px solid rgb(200, 200, 200);
+}

@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.profileContainer{
+    height: calc(100vh - 60px);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.profileHead{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.basicInfo{
+    width: 100%;
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: 400;
+    border-bottom: 1px solid rgb(200, 200, 200);
+    border-top: 1px solid rgb(200, 200, 200);
+    padding: 15px;
+    padding-left: 10px;
+}
+.name{
+    font-size: 18px;
+    border-bottom: 1px solid rgb(200, 200, 200);
+    padding: 15px;
+    width: 100%;
+    padding-left: 30px;
+}
+.email{
+    font-size: 18px;
+    border-bottom: 1px solid rgb(200, 200, 200);
+    padding: 15px;
+    width: 100%;
+    padding-left: 30px;
+}
+.pass{
+    font-size: 18px;
+    border-bottom: 1px solid rgb(200, 200, 200);
+    padding: 15px;
+    width: 100%;
+    padding-left: 30px;
+}

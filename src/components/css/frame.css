@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.frame{
+    width: 33.33%;
+    aspect-ratio: 1;
+    margin-top:-4px;
+    display: inline-block;
+    border: 1px solid black;
+}

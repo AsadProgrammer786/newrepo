@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.stuff-container{
+    min-height: calc(100vh - 130px);
+    height: auto;
+    padding-top: 20px;
+    background-color: #d9d9d9;
+    width: 100%;
+    margin-bottom: 60px;
+}
